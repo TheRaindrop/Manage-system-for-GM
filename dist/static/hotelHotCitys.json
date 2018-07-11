@@ -1,0 +1,1580 @@
+{
+    "热门": [
+        {
+            "cityPinyin": "beijing",
+            "cityNameCN": "北京"
+        },
+        {
+            "cityPinyin": "shanghai",
+            "cityNameCN": "上海"
+        },
+        {
+            "cityPinyin": "hangzhou",
+            "cityNameCN": "杭州"
+        },
+        {
+            "cityPinyin": "guangzhou",
+            "cityNameCN": "广州"
+        },
+        {
+            "cityPinyin": "nanjing",
+            "cityNameCN": "南京"
+        },
+        {
+            "cityPinyin": "wuhan",
+            "cityNameCN": "武汉"
+        },
+        {
+            "cityPinyin": "zhengzhou",
+            "cityNameCN": "郑州"
+        },
+        {
+            "cityPinyin": "changsha",
+            "cityNameCN": "长沙"
+        },
+        {
+            "cityPinyin": "shenzhen",
+            "cityNameCN": "深圳"
+        },
+        {
+            "cityPinyin": "chengdu",
+            "cityNameCN": "成都"
+        },
+        {
+            "cityPinyin": "xian",
+            "cityNameCN": "西安"
+        },
+        {
+            "cityPinyin": "hefei",
+            "cityNameCN": "合肥"
+        },
+        {
+            "cityPinyin": "chongqing",
+            "cityNameCN": "重庆"
+        },
+        {
+            "cityPinyin": "hankou",
+            "cityNameCN": "汉口"
+        },
+        {
+            "cityPinyin": "jinan",
+            "cityNameCN": "济南"
+        },
+        {
+            "cityPinyin": "tianjin",
+            "cityNameCN": "天津"
+        },
+        {
+            "cityPinyin": "suzhou",
+            "cityNameCN": "苏州"
+        },
+        {
+            "cityPinyin": "shenyang3",
+            "cityNameCN": "沈阳"
+        },
+        {
+            "cityPinyin": "qingdao",
+            "cityNameCN": "青岛"
+        },
+        {
+            "cityPinyin": "xiamen",
+            "cityNameCN": "厦门"
+        }
+    ],
+    "ABCD": [
+        {
+            "cityPinyin": "akesu",
+            "cityNameCN": "阿克苏"
+        },
+        {
+            "cityPinyin": "ankang",
+            "cityNameCN": "安康"
+        },
+        {
+            "cityPinyin": "anlu",
+            "cityNameCN": "安陆"
+        },
+        {
+            "cityPinyin": "anqing2",
+            "cityNameCN": "安庆"
+        },
+        {
+            "cityPinyin": "anshan",
+            "cityNameCN": "鞍山"
+        },
+        {
+            "cityPinyin": "anshun",
+            "cityNameCN": "安顺"
+        },
+        {
+            "cityPinyin": "anyang",
+            "cityNameCN": "安阳"
+        },
+        {
+            "cityPinyin": "aojiang",
+            "cityNameCN": "鳌江"
+        },
+        {
+            "cityPinyin": "baicheng",
+            "cityNameCN": "白城"
+        },
+        {
+            "cityPinyin": "baoding",
+            "cityNameCN": "保定"
+        },
+        {
+            "cityPinyin": "baoji",
+            "cityNameCN": "宝鸡"
+        },
+        {
+            "cityPinyin": "baotou",
+            "cityNameCN": "包头"
+        },
+        {
+            "cityPinyin": "bayuquan",
+            "cityNameCN": "鲅鱼圈"
+        },
+        {
+            "cityPinyin": "bazhong",
+            "cityNameCN": "巴中"
+        },
+        {
+            "cityPinyin": "beidaihe",
+            "cityNameCN": "北戴河"
+        },
+        {
+            "cityPinyin": "beihai",
+            "cityNameCN": "北海"
+        },
+        {
+            "cityPinyin": "beijing",
+            "cityNameCN": "北京"
+        },
+        {
+            "cityPinyin": "beitunshi",
+            "cityNameCN": "北屯市"
+        },
+        {
+            "cityPinyin": "bengbu",
+            "cityNameCN": "蚌埠"
+        },
+        {
+            "cityPinyin": "bole",
+            "cityNameCN": "博乐"
+        },
+        {
+            "cityPinyin": "cangnan",
+            "cityNameCN": "苍南"
+        },
+        {
+            "cityPinyin": "cangzhou",
+            "cityNameCN": "沧州"
+        },
+        {
+            "cityPinyin": "caohai",
+            "cityNameCN": "草海"
+        },
+        {
+            "cityPinyin": "changchun",
+            "cityNameCN": "长春"
+        },
+        {
+            "cityPinyin": "changde",
+            "cityNameCN": "常德"
+        },
+        {
+            "cityPinyin": "changsha",
+            "cityNameCN": "长沙"
+        },
+        {
+            "cityPinyin": "changxing",
+            "cityNameCN": "长兴"
+        },
+        {
+            "cityPinyin": "changzhi",
+            "cityNameCN": "长治"
+        },
+        {
+            "cityPinyin": "changzhou",
+            "cityNameCN": "常州"
+        },
+        {
+            "cityPinyin": "chaohu",
+            "cityNameCN": "巢湖"
+        },
+        {
+            "cityPinyin": "chaozhou",
+            "cityNameCN": "潮州"
+        },
+        {
+            "cityPinyin": "chengde",
+            "cityNameCN": "承德"
+        },
+        {
+            "cityPinyin": "chengdu",
+            "cityNameCN": "成都"
+        },
+        {
+            "cityPinyin": "chenzhou",
+            "cityNameCN": "郴州"
+        },
+        {
+            "cityPinyin": "chibi2",
+            "cityNameCN": "赤壁"
+        },
+        {
+            "cityPinyin": "chifeng",
+            "cityNameCN": "赤峰"
+        },
+        {
+            "cityPinyin": "chongqing",
+            "cityNameCN": "重庆"
+        },
+        {
+            "cityPinyin": "chuzhou",
+            "cityNameCN": "滁州"
+        },
+        {
+            "cityPinyin": "dali2",
+            "cityNameCN": "大理"
+        },
+        {
+            "cityPinyin": "dalian",
+            "cityNameCN": "大连"
+        },
+        {
+            "cityPinyin": "dandong",
+            "cityNameCN": "丹东"
+        },
+        {
+            "cityPinyin": "danyang",
+            "cityNameCN": "丹阳"
+        },
+        {
+            "cityPinyin": "daqing",
+            "cityNameCN": "大庆"
+        },
+        {
+            "cityPinyin": "datong",
+            "cityNameCN": "大同"
+        },
+        {
+            "cityPinyin": "dazhou",
+            "cityNameCN": "达州"
+        },
+        {
+            "cityPinyin": "delingha",
+            "cityNameCN": "德令哈"
+        },
+        {
+            "cityPinyin": "deqing",
+            "cityNameCN": "德清"
+        },
+        {
+            "cityPinyin": "deyang",
+            "cityNameCN": "德阳"
+        },
+        {
+            "cityPinyin": "dezhou",
+            "cityNameCN": "德州"
+        },
+        {
+            "cityPinyin": "dingyuan",
+            "cityNameCN": "定远"
+        },
+        {
+            "cityPinyin": "dongguan2",
+            "cityNameCN": "东莞"
+        },
+        {
+            "cityPinyin": "donghaixian",
+            "cityNameCN": "东海县"
+        },
+        {
+            "cityPinyin": "dongsheng2",
+            "cityNameCN": "东胜"
+        },
+        {
+            "cityPinyin": "dongying",
+            "cityNameCN": "东营"
+        },
+        {
+            "cityPinyin": "dujiangyan",
+            "cityNameCN": "都江堰"
+        },
+        {
+            "cityPinyin": "dunhuang",
+            "cityNameCN": "敦煌"
+        }
+    ],
+    "EFGH": [
+        {
+            "cityPinyin": "ejina",
+            "cityNameCN": "额济纳"
+        },
+        {
+            "cityPinyin": "emei",
+            "cityNameCN": "峨眉"
+        },
+        {
+            "cityPinyin": "enshi",
+            "cityNameCN": "恩施"
+        },
+        {
+            "cityPinyin": "ezhou",
+            "cityNameCN": "鄂州"
+        },
+        {
+            "cityPinyin": "foshan",
+            "cityNameCN": "佛山"
+        },
+        {
+            "cityPinyin": "fuan",
+            "cityNameCN": "福安"
+        },
+        {
+            "cityPinyin": "fuding",
+            "cityNameCN": "福鼎"
+        },
+        {
+            "cityPinyin": "fuling",
+            "cityNameCN": "涪陵"
+        },
+        {
+            "cityPinyin": "fuqing",
+            "cityNameCN": "福清"
+        },
+        {
+            "cityPinyin": "fushun",
+            "cityNameCN": "抚顺"
+        },
+        {
+            "cityPinyin": "fuxin",
+            "cityNameCN": "阜新"
+        },
+        {
+            "cityPinyin": "fuyang",
+            "cityNameCN": "阜阳"
+        },
+        {
+            "cityPinyin": "fuzhou",
+            "cityNameCN": "福州"
+        },
+        {
+            "cityPinyin": "fuzhou2",
+            "cityNameCN": "抚州"
+        },
+        {
+            "cityPinyin": "ganzhou",
+            "cityNameCN": "赣州"
+        },
+        {
+            "cityPinyin": "gaomi",
+            "cityNameCN": "高密"
+        },
+        {
+            "cityPinyin": "geermu",
+            "cityNameCN": "格尔木"
+        },
+        {
+            "cityPinyin": "guangan",
+            "cityNameCN": "广安"
+        },
+        {
+            "cityPinyin": "guangmingchen",
+            "cityNameCN": "光明城"
+        },
+        {
+            "cityPinyin": "guangtong",
+            "cityNameCN": "广通"
+        },
+        {
+            "cityPinyin": "guangyuan",
+            "cityNameCN": "广元"
+        },
+        {
+            "cityPinyin": "guangzhou",
+            "cityNameCN": "广州"
+        },
+        {
+            "cityPinyin": "gucheng",
+            "cityNameCN": "谷城"
+        },
+        {
+            "cityPinyin": "guilin",
+            "cityNameCN": "桂林"
+        },
+        {
+            "cityPinyin": "guiyang",
+            "cityNameCN": "贵阳"
+        },
+        {
+            "cityPinyin": "guzheng",
+            "cityNameCN": "古镇"
+        },
+        {
+            "cityPinyin": "haerbin",
+            "cityNameCN": "哈尔滨"
+        },
+        {
+            "cityPinyin": "haianxian",
+            "cityNameCN": "海安县"
+        },
+        {
+            "cityPinyin": "haicheng",
+            "cityNameCN": "海城"
+        },
+        {
+            "cityPinyin": "haikou",
+            "cityNameCN": "海口"
+        },
+        {
+            "cityPinyin": "hailaer",
+            "cityNameCN": "海拉尔"
+        },
+        {
+            "cityPinyin": "haining",
+            "cityNameCN": "海宁"
+        },
+        {
+            "cityPinyin": "hami",
+            "cityNameCN": "哈密"
+        },
+        {
+            "cityPinyin": "handan",
+            "cityNameCN": "邯郸"
+        },
+        {
+            "cityPinyin": "hangzhou",
+            "cityNameCN": "杭州"
+        },
+        {
+            "cityPinyin": "hanjiang",
+            "cityNameCN": "涵江"
+        },
+        {
+            "cityPinyin": "hankou",
+            "cityNameCN": "汉口"
+        },
+        {
+            "cityPinyin": "hanzhong",
+            "cityNameCN": "汉中"
+        },
+        {
+            "cityPinyin": "hebi2",
+            "cityNameCN": "鹤壁"
+        },
+        {
+            "cityPinyin": "hechuan",
+            "cityNameCN": "合川"
+        },
+        {
+            "cityPinyin": "hefei",
+            "cityNameCN": "合肥"
+        },
+        {
+            "cityPinyin": "hegang",
+            "cityNameCN": "鹤岗"
+        },
+        {
+            "cityPinyin": "heihe",
+            "cityNameCN": "黑河"
+        },
+        {
+            "cityPinyin": "hengshan",
+            "cityNameCN": "衡山"
+        },
+        {
+            "cityPinyin": "hengshui",
+            "cityNameCN": "衡水"
+        },
+        {
+            "cityPinyin": "hengyang",
+            "cityNameCN": "衡阳"
+        },
+        {
+            "cityPinyin": "heze",
+            "cityNameCN": "菏泽"
+        },
+        {
+            "cityPinyin": "huaian",
+            "cityNameCN": "淮安"
+        },
+        {
+            "cityPinyin": "huaibei",
+            "cityNameCN": "淮北"
+        },
+        {
+            "cityPinyin": "huaihua",
+            "cityNameCN": "怀化"
+        },
+        {
+            "cityPinyin": "huainan",
+            "cityNameCN": "淮南"
+        },
+        {
+            "cityPinyin": "huangshan",
+            "cityNameCN": "黄山"
+        },
+        {
+            "cityPinyin": "huangshi",
+            "cityNameCN": "黄石"
+        },
+        {
+            "cityPinyin": "huashan",
+            "cityNameCN": "华山"
+        },
+        {
+            "cityPinyin": "huhehaote",
+            "cityNameCN": "呼和浩特"
+        },
+        {
+            "cityPinyin": "huizhou",
+            "cityNameCN": "惠州"
+        },
+        {
+            "cityPinyin": "huludao",
+            "cityNameCN": "葫芦岛"
+        },
+        {
+            "cityPinyin": "humen",
+            "cityNameCN": "虎门"
+        },
+        {
+            "cityPinyin": "huzhou",
+            "cityNameCN": "湖州"
+        }
+    ],
+    "JKLM": [
+        {
+            "cityPinyin": "jiamusi",
+            "cityNameCN": "佳木斯"
+        },
+        {
+            "cityPinyin": "jian6",
+            "cityNameCN": "吉安"
+        },
+        {
+            "cityPinyin": "jiangmen",
+            "cityNameCN": "江门"
+        },
+        {
+            "cityPinyin": "jiangshan",
+            "cityNameCN": "江山"
+        },
+        {
+            "cityPinyin": "jiaozhou",
+            "cityNameCN": "胶州"
+        },
+        {
+            "cityPinyin": "jiashan",
+            "cityNameCN": "嘉善"
+        },
+        {
+            "cityPinyin": "jiaxing",
+            "cityNameCN": "嘉兴"
+        },
+        {
+            "cityPinyin": "jiayuguan",
+            "cityNameCN": "嘉峪关"
+        },
+        {
+            "cityPinyin": "jieyang",
+            "cityNameCN": "揭阳"
+        },
+        {
+            "cityPinyin": "jilin",
+            "cityNameCN": "吉林"
+        },
+        {
+            "cityPinyin": "jinan",
+            "cityNameCN": "济南"
+        },
+        {
+            "cityPinyin": "jincheng2",
+            "cityNameCN": "晋城"
+        },
+        {
+            "cityPinyin": "jingdezhen",
+            "cityNameCN": "景德镇"
+        },
+        {
+            "cityPinyin": "jingmen",
+            "cityNameCN": "荆门"
+        },
+        {
+            "cityPinyin": "jingzhou2",
+            "cityNameCN": "荆州"
+        },
+        {
+            "cityPinyin": "jinhua",
+            "cityNameCN": "金华"
+        },
+        {
+            "cityPinyin": "jining",
+            "cityNameCN": "集宁"
+        },
+        {
+            "cityPinyin": "jining2",
+            "cityNameCN": "济宁"
+        },
+        {
+            "cityPinyin": "jinjiang",
+            "cityNameCN": "晋江"
+        },
+        {
+            "cityPinyin": "jinzhou",
+            "cityNameCN": "锦州"
+        },
+        {
+            "cityPinyin": "jishou",
+            "cityNameCN": "吉首"
+        },
+        {
+            "cityPinyin": "jiujiang",
+            "cityNameCN": "九江"
+        },
+        {
+            "cityPinyin": "jiuquan",
+            "cityNameCN": "酒泉"
+        },
+        {
+            "cityPinyin": "jixi2",
+            "cityNameCN": "鸡西"
+        },
+        {
+            "cityPinyin": "kaifeng",
+            "cityNameCN": "开封"
+        },
+        {
+            "cityPinyin": "kaili",
+            "cityNameCN": "凯里"
+        },
+        {
+            "cityPinyin": "kashi",
+            "cityNameCN": "喀什"
+        },
+        {
+            "cityPinyin": "kuerle",
+            "cityNameCN": "库尔勒"
+        },
+        {
+            "cityPinyin": "kunming",
+            "cityNameCN": "昆明"
+        },
+        {
+            "cityPinyin": "kunshan",
+            "cityNameCN": "昆山"
+        },
+        {
+            "cityPinyin": "langfang",
+            "cityNameCN": "廊坊"
+        },
+        {
+            "cityPinyin": "lanzhou",
+            "cityNameCN": "兰州"
+        },
+        {
+            "cityPinyin": "lasa",
+            "cityNameCN": "拉萨"
+        },
+        {
+            "cityPinyin": "leiyang",
+            "cityNameCN": "耒阳"
+        },
+        {
+            "cityPinyin": "liangping",
+            "cityNameCN": "梁平"
+        },
+        {
+            "cityPinyin": "lianjiang3",
+            "cityNameCN": "连江"
+        },
+        {
+            "cityPinyin": "lianyungang",
+            "cityNameCN": "连云港"
+        },
+        {
+            "cityPinyin": "liaocheng",
+            "cityNameCN": "聊城"
+        },
+        {
+            "cityPinyin": "liaoyang",
+            "cityNameCN": "辽阳"
+        },
+        {
+            "cityPinyin": "liaoyuan",
+            "cityNameCN": "辽源"
+        },
+        {
+            "cityPinyin": "lijiang",
+            "cityNameCN": "丽江"
+        },
+        {
+            "cityPinyin": "linfen",
+            "cityNameCN": "临汾"
+        },
+        {
+            "cityPinyin": "lingshui",
+            "cityNameCN": "陵水"
+        },
+        {
+            "cityPinyin": "linhai",
+            "cityNameCN": "临海"
+        },
+        {
+            "cityPinyin": "linhe",
+            "cityNameCN": "临河"
+        },
+        {
+            "cityPinyin": "linyi",
+            "cityNameCN": "临沂"
+        },
+        {
+            "cityPinyin": "liuan",
+            "cityNameCN": "六安"
+        },
+        {
+            "cityPinyin": "liupanshui",
+            "cityNameCN": "六盘水"
+        },
+        {
+            "cityPinyin": "liuzhou",
+            "cityNameCN": "柳州"
+        },
+        {
+            "cityPinyin": "liyang",
+            "cityNameCN": "溧阳"
+        },
+        {
+            "cityPinyin": "longjia",
+            "cityNameCN": "龙嘉"
+        },
+        {
+            "cityPinyin": "longyan",
+            "cityNameCN": "龙岩"
+        },
+        {
+            "cityPinyin": "longyou",
+            "cityNameCN": "龙游"
+        },
+        {
+            "cityPinyin": "loudi",
+            "cityNameCN": "娄底"
+        },
+        {
+            "cityPinyin": "luohe",
+            "cityNameCN": "漯河"
+        },
+        {
+            "cityPinyin": "luoyang",
+            "cityNameCN": "洛阳"
+        },
+        {
+            "cityPinyin": "luoyuan",
+            "cityNameCN": "罗源"
+        },
+        {
+            "cityPinyin": "lushan",
+            "cityNameCN": "庐山"
+        },
+        {
+            "cityPinyin": "lvliang",
+            "cityNameCN": "吕梁"
+        },
+        {
+            "cityPinyin": "maanshan",
+            "cityNameCN": "马鞍山"
+        },
+        {
+            "cityPinyin": "manzhouli",
+            "cityNameCN": "满洲里"
+        },
+        {
+            "cityPinyin": "meilan",
+            "cityNameCN": "美兰"
+        },
+        {
+            "cityPinyin": "meizhou",
+            "cityNameCN": "梅州"
+        },
+        {
+            "cityPinyin": "mianyang",
+            "cityNameCN": "绵阳"
+        },
+        {
+            "cityPinyin": "miluo",
+            "cityNameCN": "汨罗"
+        },
+        {
+            "cityPinyin": "mohe",
+            "cityNameCN": "漠河"
+        },
+        {
+            "cityPinyin": "mudanjiang",
+            "cityNameCN": "牡丹江"
+        }
+    ],
+    "NOPQRS": [
+        {
+            "cityPinyin": "najiang",
+            "cityNameCN": "内江"
+        },
+        {
+            "cityPinyin": "nanchang",
+            "cityNameCN": "南昌"
+        },
+        {
+            "cityPinyin": "nancheng",
+            "cityNameCN": "南城"
+        },
+        {
+            "cityPinyin": "nanchong",
+            "cityNameCN": "南充"
+        },
+        {
+            "cityPinyin": "nanfeng",
+            "cityNameCN": "南丰"
+        },
+        {
+            "cityPinyin": "nanjing",
+            "cityNameCN": "南京"
+        },
+        {
+            "cityPinyin": "nanning",
+            "cityNameCN": "南宁"
+        },
+        {
+            "cityPinyin": "nantong",
+            "cityNameCN": "南通"
+        },
+        {
+            "cityPinyin": "nanyang",
+            "cityNameCN": "南阳"
+        },
+        {
+            "cityPinyin": "ningbo",
+            "cityNameCN": "宁波"
+        },
+        {
+            "cityPinyin": "ningde",
+            "cityNameCN": "宁德"
+        },
+        {
+            "cityPinyin": "ninghai",
+            "cityNameCN": "宁海"
+        },
+        {
+            "cityPinyin": "panjin",
+            "cityNameCN": "盘锦"
+        },
+        {
+            "cityPinyin": "panzhihua",
+            "cityNameCN": "攀枝花"
+        },
+        {
+            "cityPinyin": "pingdingshan2",
+            "cityNameCN": "平顶山"
+        },
+        {
+            "cityPinyin": "pingxiang",
+            "cityNameCN": "萍乡"
+        },
+        {
+            "cityPinyin": "pingyao",
+            "cityNameCN": "平遥"
+        },
+        {
+            "cityPinyin": "putian",
+            "cityNameCN": "莆田"
+        },
+        {
+            "cityPinyin": "qianan",
+            "cityNameCN": "迁安"
+        },
+        {
+            "cityPinyin": "qianjiang",
+            "cityNameCN": "黔江"
+        },
+        {
+            "cityPinyin": "qianjiang2",
+            "cityNameCN": "潜江"
+        },
+        {
+            "cityPinyin": "qinchun",
+            "cityNameCN": "蕲春"
+        },
+        {
+            "cityPinyin": "qingchengshan",
+            "cityNameCN": "青城山"
+        },
+        {
+            "cityPinyin": "qingdao",
+            "cityNameCN": "青岛"
+        },
+        {
+            "cityPinyin": "qingyuan2",
+            "cityNameCN": "清远"
+        },
+        {
+            "cityPinyin": "qingzhoushi",
+            "cityNameCN": "青州市"
+        },
+        {
+            "cityPinyin": "qinhuangdao",
+            "cityNameCN": "秦皇岛"
+        },
+        {
+            "cityPinyin": "qionghai",
+            "cityNameCN": "琼海"
+        },
+        {
+            "cityPinyin": "qiqihaer",
+            "cityNameCN": "齐齐哈尔"
+        },
+        {
+            "cityPinyin": "qitaihe",
+            "cityNameCN": "七台河"
+        },
+        {
+            "cityPinyin": "quanzhou2",
+            "cityNameCN": "泉州"
+        },
+        {
+            "cityPinyin": "qufu",
+            "cityNameCN": "曲阜"
+        },
+        {
+            "cityPinyin": "qujing",
+            "cityNameCN": "曲靖"
+        },
+        {
+            "cityPinyin": "quxian",
+            "cityNameCN": "渠县"
+        },
+        {
+            "cityPinyin": "quzhou",
+            "cityNameCN": "衢州"
+        },
+        {
+            "cityPinyin": "renqiu",
+            "cityNameCN": "任丘"
+        },
+        {
+            "cityPinyin": "rizhao",
+            "cityNameCN": "日照"
+        },
+        {
+            "cityPinyin": "rugao",
+            "cityNameCN": "如皋"
+        },
+        {
+            "cityPinyin": "ruian",
+            "cityNameCN": "瑞安"
+        },
+        {
+            "cityPinyin": "rushan",
+            "cityNameCN": "乳山"
+        },
+        {
+            "cityPinyin": "sanmenxia2",
+            "cityNameCN": "三门峡"
+        },
+        {
+            "cityPinyin": "sanmenxian",
+            "cityNameCN": "三门县"
+        },
+        {
+            "cityPinyin": "sanming",
+            "cityNameCN": "三明"
+        },
+        {
+            "cityPinyin": "sanya",
+            "cityNameCN": "三亚"
+        },
+        {
+            "cityPinyin": "shanghai",
+            "cityNameCN": "上海"
+        },
+        {
+            "cityPinyin": "shanghaihongqiao",
+            "cityNameCN": "上海虹桥"
+        },
+        {
+            "cityPinyin": "shangqiu",
+            "cityNameCN": "商丘"
+        },
+        {
+            "cityPinyin": "shangrao",
+            "cityNameCN": "上饶"
+        },
+        {
+            "cityPinyin": "shangyu",
+            "cityNameCN": "上虞"
+        },
+        {
+            "cityPinyin": "shanhaiguan",
+            "cityNameCN": "山海关"
+        },
+        {
+            "cityPinyin": "shantou",
+            "cityNameCN": "汕头"
+        },
+        {
+            "cityPinyin": "shaoguan",
+            "cityNameCN": "韶关"
+        },
+        {
+            "cityPinyin": "shaoxing",
+            "cityNameCN": "绍兴"
+        },
+        {
+            "cityPinyin": "shaoyang",
+            "cityNameCN": "邵阳"
+        },
+        {
+            "cityPinyin": "shenfang2",
+            "cityNameCN": "绅坊"
+        },
+        {
+            "cityPinyin": "shenmu",
+            "cityNameCN": "神木"
+        },
+        {
+            "cityPinyin": "shenyang3",
+            "cityNameCN": "沈阳"
+        },
+        {
+            "cityPinyin": "shenzhen",
+            "cityNameCN": "深圳"
+        },
+        {
+            "cityPinyin": "shijiazhuang2",
+            "cityNameCN": "石家庄"
+        },
+        {
+            "cityPinyin": "shiyan",
+            "cityNameCN": "十堰"
+        },
+        {
+            "cityPinyin": "shuangyashan",
+            "cityNameCN": "双鸭山"
+        },
+        {
+            "cityPinyin": "siping",
+            "cityNameCN": "四平"
+        },
+        {
+            "cityPinyin": "songjiang",
+            "cityNameCN": "松江"
+        },
+        {
+            "cityPinyin": "songyuan",
+            "cityNameCN": "松原"
+        },
+        {
+            "cityPinyin": "songzi",
+            "cityNameCN": "松滋"
+        },
+        {
+            "cityPinyin": "suide",
+            "cityNameCN": "绥德"
+        },
+        {
+            "cityPinyin": "suifenhe",
+            "cityNameCN": "绥芬河"
+        },
+        {
+            "cityPinyin": "suining",
+            "cityNameCN": "遂宁"
+        },
+        {
+            "cityPinyin": "suizhou",
+            "cityNameCN": "随州"
+        },
+        {
+            "cityPinyin": "suzhou",
+            "cityNameCN": "苏州"
+        },
+        {
+            "cityPinyin": "suzhou2",
+            "cityNameCN": "宿州"
+        }
+    ],
+    "TUVWX": [
+        {
+            "cityPinyin": "taian",
+            "cityNameCN": "台安"
+        },
+        {
+            "cityPinyin": "taian2",
+            "cityNameCN": "泰安"
+        },
+        {
+            "cityPinyin": "taimushan",
+            "cityNameCN": "太姥山"
+        },
+        {
+            "cityPinyin": "taining",
+            "cityNameCN": "泰宁"
+        },
+        {
+            "cityPinyin": "taishan",
+            "cityNameCN": "泰山"
+        },
+        {
+            "cityPinyin": "taiyuan",
+            "cityNameCN": "太原"
+        },
+        {
+            "cityPinyin": "taizhou",
+            "cityNameCN": "泰州"
+        },
+        {
+            "cityPinyin": "taizhou2",
+            "cityNameCN": "台州"
+        },
+        {
+            "cityPinyin": "tanggu",
+            "cityNameCN": "塘沽"
+        },
+        {
+            "cityPinyin": "tangjiawan",
+            "cityNameCN": "唐家湾"
+        },
+        {
+            "cityPinyin": "tangshan",
+            "cityNameCN": "唐山"
+        },
+        {
+            "cityPinyin": "tengzhou",
+            "cityNameCN": "滕州"
+        },
+        {
+            "cityPinyin": "tianjin",
+            "cityNameCN": "天津"
+        },
+        {
+            "cityPinyin": "tianmen",
+            "cityNameCN": "天门"
+        },
+        {
+            "cityPinyin": "tianshui",
+            "cityNameCN": "天水"
+        },
+        {
+            "cityPinyin": "tieling",
+            "cityNameCN": "铁岭"
+        },
+        {
+            "cityPinyin": "tongcheng",
+            "cityNameCN": "桐城"
+        },
+        {
+            "cityPinyin": "tonghua",
+            "cityNameCN": "通化"
+        },
+        {
+            "cityPinyin": "tongliao",
+            "cityNameCN": "通辽"
+        },
+        {
+            "cityPinyin": "tongling2",
+            "cityNameCN": "铜陵"
+        },
+        {
+            "cityPinyin": "tongren",
+            "cityNameCN": "铜仁"
+        },
+        {
+            "cityPinyin": "tongxiang",
+            "cityNameCN": "桐乡"
+        },
+        {
+            "cityPinyin": "tulufan",
+            "cityNameCN": "吐鲁番"
+        },
+        {
+            "cityPinyin": "wafangdian",
+            "cityNameCN": "瓦房店"
+        },
+        {
+            "cityPinyin": "wangning",
+            "cityNameCN": "万宁"
+        },
+        {
+            "cityPinyin": "wanyuan",
+            "cityNameCN": "万源"
+        },
+        {
+            "cityPinyin": "wanzhou",
+            "cityNameCN": "万州"
+        },
+        {
+            "cityPinyin": "weifang",
+            "cityNameCN": "潍坊"
+        },
+        {
+            "cityPinyin": "weihai",
+            "cityNameCN": "威海"
+        },
+        {
+            "cityPinyin": "weinan",
+            "cityNameCN": "渭南"
+        },
+        {
+            "cityPinyin": "wenchang",
+            "cityNameCN": "文昌"
+        },
+        {
+            "cityPinyin": "wenling",
+            "cityNameCN": "温岭"
+        },
+        {
+            "cityPinyin": "wenzhou",
+            "cityNameCN": "温州"
+        },
+        {
+            "cityPinyin": "wolitun",
+            "cityNameCN": "卧里屯"
+        },
+        {
+            "cityPinyin": "wuchang",
+            "cityNameCN": "武昌"
+        },
+        {
+            "cityPinyin": "wuhai",
+            "cityNameCN": "乌海"
+        },
+        {
+            "cityPinyin": "wuhan",
+            "cityNameCN": "武汉"
+        },
+        {
+            "cityPinyin": "wuhu",
+            "cityNameCN": "芜湖"
+        },
+        {
+            "cityPinyin": "wulanhaote",
+            "cityNameCN": "乌兰浩特"
+        },
+        {
+            "cityPinyin": "wulong",
+            "cityNameCN": "武隆"
+        },
+        {
+            "cityPinyin": "wulumuqi",
+            "cityNameCN": "乌鲁木齐"
+        },
+        {
+            "cityPinyin": "wuqing",
+            "cityNameCN": "武清"
+        },
+        {
+            "cityPinyin": "wutaishan",
+            "cityNameCN": "五台山"
+        },
+        {
+            "cityPinyin": "wuwei",
+            "cityNameCN": "武威"
+        },
+        {
+            "cityPinyin": "wuxi",
+            "cityNameCN": "无锡"
+        },
+        {
+            "cityPinyin": "wuxixinqu",
+            "cityNameCN": "无锡新区"
+        },
+        {
+            "cityPinyin": "wuyishan",
+            "cityNameCN": "武夷山"
+        },
+        {
+            "cityPinyin": "xiamen",
+            "cityNameCN": "厦门"
+        },
+        {
+            "cityPinyin": "xian",
+            "cityNameCN": "西安"
+        },
+        {
+            "cityPinyin": "xiangyang2",
+            "cityNameCN": "襄阳"
+        },
+        {
+            "cityPinyin": "xianning",
+            "cityNameCN": "咸宁"
+        },
+        {
+            "cityPinyin": "xiaogan",
+            "cityNameCN": "孝感"
+        },
+        {
+            "cityPinyin": "xiapu",
+            "cityNameCN": "霞浦"
+        },
+        {
+            "cityPinyin": "xichang",
+            "cityNameCN": "西昌"
+        },
+        {
+            "cityPinyin": "xilinhaote",
+            "cityNameCN": "锡林浩特"
+        },
+        {
+            "cityPinyin": "xingtai",
+            "cityNameCN": "邢台"
+        },
+        {
+            "cityPinyin": "xining",
+            "cityNameCN": "西宁"
+        },
+        {
+            "cityPinyin": "xinxiang2",
+            "cityNameCN": "新乡"
+        },
+        {
+            "cityPinyin": "xinyang",
+            "cityNameCN": "信阳"
+        },
+        {
+            "cityPinyin": "xinyu",
+            "cityNameCN": "新余"
+        },
+        {
+            "cityPinyin": "xinzhou",
+            "cityNameCN": "忻州"
+        },
+        {
+            "cityPinyin": "xuchang",
+            "cityNameCN": "许昌"
+        },
+        {
+            "cityPinyin": "xuzhou",
+            "cityNameCN": "徐州"
+        }
+    ],
+    "YZ": [
+        {
+            "cityPinyin": "yabuli",
+            "cityNameCN": "亚布力"
+        },
+        {
+            "cityPinyin": "yalongwang",
+            "cityNameCN": "亚龙湾"
+        },
+        {
+            "cityPinyin": "yanan",
+            "cityNameCN": "延安"
+        },
+        {
+            "cityPinyin": "yancheng2",
+            "cityNameCN": "盐城"
+        },
+        {
+            "cityPinyin": "yandangshan",
+            "cityNameCN": "雁荡山"
+        },
+        {
+            "cityPinyin": "yangquan3",
+            "cityNameCN": "阳泉"
+        },
+        {
+            "cityPinyin": "yangzhou",
+            "cityNameCN": "扬州"
+        },
+        {
+            "cityPinyin": "yanji3",
+            "cityNameCN": "延吉"
+        },
+        {
+            "cityPinyin": "yantai",
+            "cityNameCN": "烟台"
+        },
+        {
+            "cityPinyin": "yibin",
+            "cityNameCN": "宜宾"
+        },
+        {
+            "cityPinyin": "yichang",
+            "cityNameCN": "宜昌"
+        },
+        {
+            "cityPinyin": "yichun",
+            "cityNameCN": "宜春"
+        },
+        {
+            "cityPinyin": "yinchuan",
+            "cityNameCN": "银川"
+        },
+        {
+            "cityPinyin": "yingde",
+            "cityNameCN": "英德"
+        },
+        {
+            "cityPinyin": "yingkou",
+            "cityNameCN": "营口"
+        },
+        {
+            "cityPinyin": "yingshan2",
+            "cityNameCN": "营山"
+        },
+        {
+            "cityPinyin": "yingtan",
+            "cityNameCN": "鹰潭"
+        },
+        {
+            "cityPinyin": "yining",
+            "cityNameCN": "伊宁"
+        },
+        {
+            "cityPinyin": "yiwu",
+            "cityNameCN": "义乌"
+        },
+        {
+            "cityPinyin": "yixing",
+            "cityNameCN": "宜兴"
+        },
+        {
+            "cityPinyin": "yiyang",
+            "cityNameCN": "益阳"
+        },
+        {
+            "cityPinyin": "yongjia",
+            "cityNameCN": "永嘉"
+        },
+        {
+            "cityPinyin": "yongzhou",
+            "cityNameCN": "永州"
+        },
+        {
+            "cityPinyin": "youxi2",
+            "cityNameCN": "尤溪"
+        },
+        {
+            "cityPinyin": "yueqing",
+            "cityNameCN": "乐清"
+        },
+        {
+            "cityPinyin": "yueyang",
+            "cityNameCN": "岳阳"
+        },
+        {
+            "cityPinyin": "yuhang",
+            "cityNameCN": "余杭"
+        },
+        {
+            "cityPinyin": "yulin2",
+            "cityNameCN": "榆林"
+        },
+        {
+            "cityPinyin": "yuncheng",
+            "cityNameCN": "运城"
+        },
+        {
+            "cityPinyin": "yuyao",
+            "cityNameCN": "余姚"
+        },
+        {
+            "cityPinyin": "zaoyang",
+            "cityNameCN": "枣阳"
+        },
+        {
+            "cityPinyin": "zaozhuang",
+            "cityNameCN": "枣庄"
+        },
+        {
+            "cityPinyin": "zhangjiajie",
+            "cityNameCN": "张家界"
+        },
+        {
+            "cityPinyin": "zhangjiakou",
+            "cityNameCN": "张家口"
+        },
+        {
+            "cityPinyin": "zhangqiu",
+            "cityNameCN": "章丘"
+        },
+        {
+            "cityPinyin": "zhangye",
+            "cityNameCN": "张掖"
+        },
+        {
+            "cityPinyin": "zhangzhou",
+            "cityNameCN": "漳州"
+        },
+        {
+            "cityPinyin": "zhanjiang2",
+            "cityNameCN": "湛江"
+        },
+        {
+            "cityPinyin": "zhaotong",
+            "cityNameCN": "昭通"
+        },
+        {
+            "cityPinyin": "zhengdingjichang",
+            "cityNameCN": "正定机场"
+        },
+        {
+            "cityPinyin": "zhengzhou",
+            "cityNameCN": "郑州"
+        },
+        {
+            "cityPinyin": "zhenjiang",
+            "cityNameCN": "镇江"
+        },
+        {
+            "cityPinyin": "zhenyuan",
+            "cityNameCN": "镇远"
+        },
+        {
+            "cityPinyin": "zhijin",
+            "cityNameCN": "织金"
+        },
+        {
+            "cityPinyin": "zhongshang",
+            "cityNameCN": "中山"
+        },
+        {
+            "cityPinyin": "zhongwei",
+            "cityNameCN": "中卫"
+        },
+        {
+            "cityPinyin": "zhongxiang",
+            "cityNameCN": "钟祥"
+        },
+        {
+            "cityPinyin": "zhoukou",
+            "cityNameCN": "周口"
+        },
+        {
+            "cityPinyin": "zhuhai",
+            "cityNameCN": "舟山"
+        },
+        {
+            "cityPinyin": "zhoushan",
+            "cityNameCN": "珠海"
+        },
+        {
+            "cityPinyin": "zhuji",
+            "cityNameCN": "诸暨"
+        },
+        {
+            "cityPinyin": "zhumadian",
+            "cityNameCN": "驻马店"
+        },
+        {
+            "cityPinyin": "zhuzhou",
+            "cityNameCN": "株洲"
+        },
+        {
+            "cityPinyin": "zibo",
+            "cityNameCN": "淄博"
+        },
+        {
+            "cityPinyin": "zunyi",
+            "cityNameCN": "遵义"
+        }
+    ]
+}
